@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Act2</string>
+    <string name="labelapp">Login User</string>
+    <string name="user">Username </string>
+    <string name="pass">Password</string>
+    <string name="mass_user">Masukan Username</string>
+    <string name="mass_pass">Masukkan Password</string>
+    <string name="mas_nama">Masukkan nama</string>
+    <string name="mas_email">Masukkan Email</string>
+    <string name="mas_telp">Masukkan No Telp</string>
+    <string name="daftar">Sign-In</string>
+</resources>
